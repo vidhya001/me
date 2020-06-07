@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#AFCDB1">
+
+    <TextView
+        android:id="@+id/titleWindow"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/safety_rules"
+        android:textSize="30sp"
+        android:gravity="center_horizontal"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="27dp"
+        tools:layout_editor_absoluteY="33dp" />
+
+    <TextView
+        android:id="@+id/messageWindow"
+
+        android:layout_width="336dp"
+
+
+        android:layout_height="216dp"
+        android:gravity="center_horizontal"
+
+        android:text="@string/stay_home_save_lives_nhelp_stop_coronavirus_n_1_stay_home_n_2_keepa_safe_distance_n_3_wash_hands_often_n_4_cover_your_cough_n_5_sick_call_the_helpline"
+
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.425"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="87dp" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

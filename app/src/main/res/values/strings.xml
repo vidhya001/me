@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My app</string>
+    <string name="Roll">Roll</string>
+    <string name="go">go</string>
+    <string name="safety_rules">Safety rules</string>
+    <string name="stay_home_save_lives_nhelp_stop_coronavirus_n_1_stay_home_n_2_keepa_safe_distance_n_3_wash_hands_often_n_4_cover_your_cough_n_5_sick_call_the_helpline">STAY HOME.SAVE LIVES. \nHelp stop coronavirus \n 1 STAY home \n 2 KEEPa safe distance \n 3 WASH hands often \n 4 COVER your cough \n 5 SICK?Call the helpline</string>
+    <string name="safety_tips">Safety Tips</string>
+    <string name="holaa">Holaa!</string>
+    <string name="Holaa">Holaa:)</string>
+    <string name="dice_game">Dice game</string>
+</resources>
